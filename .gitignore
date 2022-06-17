@@ -3,3 +3,7 @@
 /tstutorial.ipynb
 /RPS/.ipynb_checkpoints
 /RPS/__pycache__
+projects/BookRecommEngKNN/book-crossings/BX-Book-Ratings.csv
+.gitignore
+projects/BookRecommEngKNN/book-crossings/BX-Users.csv
+.gitignore
